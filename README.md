@@ -1,4 +1,4 @@
-# Vue 3 + Typescript + Vite
+# demo vue SSG by vite 
 
 ## information
 
