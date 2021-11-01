@@ -2,7 +2,7 @@
 
 ## Information
 
-This is the demo repositorie to demonstrate how server-side-generator create vue 3 web app with vite, it's effective for SEO.
+This is the demo repository to demonstrate how server-side-generator creates vue 3 web app with vite, it's effective for SEO.
 
 Run `yarn dev` to preview,
 
