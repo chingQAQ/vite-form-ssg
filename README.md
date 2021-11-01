@@ -1,6 +1,6 @@
 # Demo by vite-ssg 
 
-## information
+## Information
 
 This is the repo to show how use server-side-generator create vue 3 web app with vite, it's effective for SEO.
 
