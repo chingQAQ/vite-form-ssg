@@ -1,4 +1,4 @@
-# demo vue SSG by vite 
+# Demo by vite-ssg 
 
 ## information
 
