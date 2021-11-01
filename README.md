@@ -4,6 +4,12 @@
 
 This is the repo to show how use server-side-generator create vue 3 web app with vite, it's effective for SEO.
 
+run `yarn dev` to preview,
+
+and `yarn build` you can seen app was builded to example folder, and that is server-side generated result. It friendly and kindly SEO.
+
+
+
 ---
 
 This template should help get you started developing with Vue 3 and Typescript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
