@@ -4,9 +4,9 @@
 
 This is the repo to show how use server-side-generator create vue 3 web app with vite, it's effective for SEO.
 
-run `yarn dev` to preview,
+Run `yarn dev` to preview,
 
-and `yarn build` you can seen app was builded to example folder, and that is server-side generated result. It friendly and kindly SEO.
+And `yarn build` you can seen app was builded to example folder, and that is server-side generated result. It friendly and kindly SEO.
 
 
 
